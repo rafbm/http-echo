@@ -1,1 +1,3 @@
-ruby '2.6.6'
+ruby File.read('.ruby-version')
+
+source 'https://rubygems.org'
